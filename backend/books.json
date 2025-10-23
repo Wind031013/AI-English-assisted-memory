@@ -1,0 +1,346 @@
+[
+  {
+    "id": "1",
+    "name": "四级英语单词",
+    "description": "四级相关单词书",
+    "words": [
+      {
+        "word": "read",
+        "pronunciation": "/riːd/",
+        "translation": {
+          "v.": "阅读",
+          "n.": "读物"
+        },
+        "example": {
+          "text": "She reads a book every night.",
+          "translation": "她每晚都读一本书。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "write",
+        "pronunciation": "/raɪt/",
+        "translation": {
+          "v.": "写",
+          "n.": "书写"
+        },
+        "example": {
+          "text": "He writes letters to his grandmother.",
+          "translation": "他给奶奶写信。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "play",
+        "pronunciation": "/pleɪ/",
+        "translation": {
+          "v.": "玩耍；演奏",
+          "n.": "戏剧；游戏"
+        },
+        "example": {
+          "text": "The children play in the park.",
+          "translation": "孩子们在公园里玩耍。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "work",
+        "pronunciation": "/wɜːrk/",
+        "translation": {
+          "v.": "工作",
+          "n.": "工作；作品"
+        },
+        "example": {
+          "text": "She works at a hospital.",
+          "translation": "她在一家医院工作。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "live",
+        "pronunciation": "/lɪv/",
+        "translation": {
+          "v.": "居住；生活",
+          "adj.": "现场的（读作 /laɪv/）"
+        },
+        "example": {
+          "text": "They live in New York.",
+          "translation": "他们住在纽约。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "love",
+        "pronunciation": "/lʌv/",
+        "translation": {
+          "v.": "爱",
+          "n.": "爱；爱情"
+        },
+        "example": {
+          "text": "I love my family.",
+          "translation": "我爱我的家人。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "watch",
+        "pronunciation": "/wɒtʃ/",
+        "translation": {
+          "v.": "观看；注视",
+          "n.": "手表"
+        },
+        "example": {
+          "text": "We watch TV after dinner.",
+          "translation": "我们晚饭后看电视。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "listen",
+        "pronunciation": "/ˈlɪsən/",
+        "translation": {
+          "v.": "听；倾听"
+        },
+        "example": {
+          "text": "Please listen to the teacher.",
+          "translation": "请听老师讲课。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "speak",
+        "pronunciation": "/spiːk/",
+        "translation": {
+          "v.": "说话；讲（语言）"
+        },
+        "example": {
+          "text": "He speaks three languages.",
+          "translation": "他会说三种语言。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "think",
+        "pronunciation": "/θɪŋk/",
+        "translation": {
+          "v.": "思考；认为"
+        },
+        "example": {
+          "text": "I think it’s a good idea.",
+          "translation": "我认为这是个好主意。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "run",
+        "pronunciation": "/rʌn/",
+        "translation": {
+          "v.": "跑；经营",
+          "n.": "跑步；运行"
+        },
+        "example": {
+          "text": "He runs every morning.",
+          "translation": "他每天早上跑步。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "walk",
+        "pronunciation": "/wɔːk/",
+        "translation": {
+          "v.": "走路",
+          "n.": "步行；散步"
+        },
+        "example": {
+          "text": "We walk to school together.",
+          "translation": "我们一起步行去学校。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "eat",
+        "pronunciation": "/iːt/",
+        "translation": {
+          "v.": "吃"
+        },
+        "example": {
+          "text": "They eat lunch at noon.",
+          "translation": "他们中午吃午饭。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "drink",
+        "pronunciation": "/drɪŋk/",
+        "translation": {
+          "v.": "喝",
+          "n.": "饮料"
+        },
+        "example": {
+          "text": "She drinks coffee every morning.",
+          "translation": "她每天早上喝咖啡。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "sleep",
+        "pronunciation": "/sliːp/",
+        "translation": {
+          "v.": "睡觉",
+          "n.": "睡眠"
+        },
+        "example": {
+          "text": "Babies sleep a lot.",
+          "translation": "婴儿睡得很多。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "drive",
+        "pronunciation": "/draɪv/",
+        "translation": {
+          "v.": "驾驶",
+          "n.": "驱车旅行"
+        },
+        "example": {
+          "text": "He drives to work every day.",
+          "translation": "他每天开车上班。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "cook",
+        "pronunciation": "/kʊk/",
+        "translation": {
+          "v.": "烹饪",
+          "n.": "厨师"
+        },
+        "example": {
+          "text": "My mom cooks dinner for us.",
+          "translation": "我妈妈为我们做晚饭。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "clean",
+        "pronunciation": "/kliːn/",
+        "translation": {
+          "v.": "打扫；清洁",
+          "adj.": "干净的"
+        },
+        "example": {
+          "text": "I clean my room every weekend.",
+          "translation": "我每个周末打扫房间。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "open",
+        "pronunciation": "/ˈəʊpən/",
+        "translation": {
+          "v.": "打开",
+          "adj.": "开着的；开放的"
+        },
+        "example": {
+          "text": "Please open the window.",
+          "translation": "请打开窗户。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "close",
+        "pronunciation": "/kləʊz/",
+        "translation": {
+          "v.": "关闭",
+          "adj.": "近的；亲密的（读作 /kləʊs/）"
+        },
+        "example": {
+          "text": "She closes the door quietly.",
+          "translation": "她轻轻地关上门。"
+        },
+        "remember": false,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "高考英语单词",
+    "description": "高考必备单词",
+    "words": [
+      {
+        "word": "achieve",
+        "translation": {
+          "v.": "达到，完成"
+        },
+        "example": {
+          "text": "He achieved his goal.",
+          "translation": "他达到了他的目标。"
+        },
+        "remember": true,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      }
+    ]
+  }
+]
