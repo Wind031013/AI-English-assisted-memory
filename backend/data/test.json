@@ -1,0 +1,238 @@
+[
+  {
+    "id": "a9d90418-cba3-4ed9-9edb-aa0ee0a73933",
+    "name": "test",
+    "description": "无",
+    "word_num": 9,
+    "remember_num": 2
+  },
+  {
+    "word": "anger",
+    "pronunciation": "/ˈæŋ.ɡər/",
+    "translation": {
+      "n.": "愤怒，怒火",
+      "v.": "使发怒，激怒"
+    },
+    "example": {
+      "text": [
+        "He couldn't hide his anger at the injustice.",
+        "The news angered many people."
+      ],
+      "translation": [
+        "他对这种不公正感到愤怒，无法隐藏。",
+        "这个消息激怒了许多人。"
+      ]
+    },
+    "memory": {
+      "remember": true,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "damaging",
+    "pronunciation": "/ˈdæmɪdʒɪŋ/",
+    "translation": {
+      "adj.": "有害的，破坏性的"
+    },
+    "example": {
+      "text": [
+        "The chemicals are damaging to the environment.",
+        "The criticism was damaging to his reputation."
+      ],
+      "translation": [
+        "这些化学物质对环境有害。",
+        "这次批评对他的名誉造成了破坏。"
+      ]
+    },
+    "memory": {
+      "remember": true,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "emotion",
+    "pronunciation": "/ɪˈmoʊʃən/",
+    "translation": {
+      "n.": "情感，情绪"
+    },
+    "example": {
+      "text": [
+        "He expressed a range of emotions.",
+        "The movie evoked strong emotions in the audience."
+      ],
+      "translation": [
+        "他表达了一系列的情感。",
+        "这部电影在观众中引起了强烈的情感。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "deal",
+    "pronunciation": "/diːl/",
+    "translation": {
+      "v.": "处理，交易，发牌",
+      "n.": "交易，协议，牌局"
+    },
+    "example": {
+      "text": [
+        "The government is dealing with the economic crisis.",
+        "They made a deal to reduce the tariffs.",
+        "He was dealt a good hand in the poker game."
+      ],
+      "translation": [
+        "政府正在处理经济危机。",
+        "他们达成了一项降低关税的协议。",
+        "他在扑克牌局中拿到了一副好牌。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "heart disease",
+    "pronunciation": "/hɑːt ˈdiːziz/",
+    "translation": {
+      "n.": "心脏病"
+    },
+    "example": {
+      "text": [
+        "Heart disease is a leading cause of death worldwide.",
+        "He has been diagnosed with heart disease."
+      ],
+      "translation": [
+        "心脏病是全球主要的死亡原因。",
+        "他被诊断出患有心脏病。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "stomach problems",
+    "pronunciation": "/ˈstʌmək ˈprɒbləmz/",
+    "translation": {
+      "n.": "胃部问题"
+    },
+    "example": {
+      "text": [
+        "He has stomach problems after eating too much fast food.",
+        "The doctor recommended medication for her stomach problems."
+      ],
+      "translation": [
+        "他因为吃太多快餐而感到胃部不适。",
+        "医生建议她服用药物治疗胃部问题。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "headaches",
+    "pronunciation": "/ˈhed.ə.kiks/",
+    "translation": {
+      "n.": "头痛"
+    },
+    "example": {
+      "text": [
+        "I have frequent headaches.",
+        "This medication is prescribed to relieve headaches."
+      ],
+      "translation": [
+        "我经常头痛。",
+        "这种药物是开给用来缓解头痛的。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "emotional problems",
+    "pronunciation": "/ɪˈmoʊʃənəl ˈprɒbləmz/",
+    "translation": {
+      "n.": "情感问题"
+    },
+    "example": {
+      "text": [
+        "He has been dealing with emotional problems for years.",
+        "The movie explores the emotional problems of the characters."
+      ],
+      "translation": [
+        "他已经处理情感问题好几年了。",
+        "这部电影探讨了角色的情感问题。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "cancer",
+    "pronunciation": "/ˈkænsər/",
+    "translation": {
+      "n.": "癌症；肿瘤"
+    },
+    "example": {
+      "text": [
+        "Cancer is a serious disease that affects many people.",
+        "He was diagnosed with cancer."
+      ],
+      "translation": [
+        "癌症是一种影响许多人的严重疾病。",
+        "他被诊断出患有癌症。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  }
+]

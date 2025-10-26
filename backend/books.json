@@ -329,6 +329,7 @@
     "words": [
       {
         "word": "achieve",
+        "pronunciation": "/əˈtʃiːv/",
         "translation": {
           "v.": "达到，完成"
         },
@@ -337,6 +338,22 @@
           "translation": "他达到了他的目标。"
         },
         "remember": true,
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+      },
+      {
+        "word": "write",
+        "pronunciation": "/raɪt/",
+        "translation": {
+          "v.": "写",
+          "n.": "书写"
+        },
+        "example": {
+          "text": "He writes letters to his grandmother.",
+          "translation": "他给奶奶写信。"
+        },
+        "remember": false,
         "word_list": true,
         "memory_list": false,
         "final_list": false

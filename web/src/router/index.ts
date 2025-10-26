@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import BookSelection from '../components/BookSelection.vue'
-import MemoryAssist from '../components/MemoryAssist.vue'
+import BookSelection from '@/view/BookSelection.vue'
+import StudyView from '@/view/StudyView.vue'
+import StudyComplete from '../components/StudyComplete.vue'
 const routes = [
   {
     path: '/',
@@ -10,8 +11,13 @@ const routes = [
   {
     path: '/memory/:bookId',
     name: 'MemoryAssist',
-    component: MemoryAssist,
+    component: StudyView,
     props: true
+  },
+  {
+    path: '/study-complete',
+    name: 'StudyComplete',
+    component: StudyComplete
   }
 ]
 

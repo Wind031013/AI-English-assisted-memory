@@ -1,0 +1,419 @@
+[
+    {
+        "id": "c1f6156e-1829-423a-9872-3278fd1bebd1",
+        "name": "测试",
+        "description": "描述1",
+        "word_num": 16,
+        "remember_num": 0
+    },
+    {
+        "word": "youngsters",
+        "pronunciation": "/ˈjʌŋstərz/",
+        "translation": {
+            "n.": "年轻人；青少年"
+        },
+        "example": {
+            "text": [
+                "The youngsters were energetic and full of life.",
+                "The government has introduced new policies to support youngsters."
+            ],
+            "translation": [
+                "这些年轻人充满活力，生机勃勃。",
+                "政府已经推出了新的政策来支持年轻人。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "laboratory",
+        "pronunciation": "/ləˈbɒrətəri/",
+        "translation": {
+            "n.": "实验室，研究室"
+        },
+        "example": {
+            "text": [
+                "The scientist worked in a biology laboratory.",
+                "She conducted her research in a chemistry laboratory."
+            ],
+            "translation": [
+                "科学家在生物学实验室工作。",
+                "她在化学实验室进行了她的研究。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "visited",
+        "pronunciation": "/ˈvɪzɪtɪd/",
+        "translation": {
+            "v.": "参观；访问；拜访",
+            "adj.": "参观过的；访问过的"
+        },
+        "example": {
+            "text": [
+                "I have visited many historical sites in China.",
+                "This is a house that has been visited by many famous people."
+            ],
+            "translation": [
+                "我已经参观过中国很多历史遗迹。",
+                "这是一栋许多名人曾拜访过的房子。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "age",
+        "pronunciation": "/eɪdʒ/",
+        "translation": {
+            "n.": "年龄",
+            "v.": "变老；使显老"
+        },
+        "example": {
+            "text": [
+                "He is 30 years of age.",
+                "The leaves age and fall."
+            ],
+            "translation": [
+                "他30岁了。",
+                "树叶变老并落下。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "events",
+        "pronunciation": "/ɪˈvɛnts/",
+        "translation": {
+            "n.": "事件；活动"
+        },
+        "example": {
+            "text": [
+                "The company will host a series of events next month.",
+                "He is responsible for organizing all the events at the conference."
+            ],
+            "translation": [
+                "公司下个月将举办一系列活动。",
+                "他负责组织会议上的所有活动。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "past",
+        "pronunciation": "/pæst/",
+        "translation": {
+            "adj.": "过去的",
+            "n.": "过去",
+            "prep.": "经过"
+        },
+        "example": {
+            "text": [
+                "The past few years have been challenging.",
+                "I haven't seen him in the past month.",
+                "She walked past the store."
+            ],
+            "translation": [
+                "过去的几年是充满挑战的。",
+                "过去的一个月我没有见过他。",
+                "她经过那家商店。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "family",
+        "pronunciation": "/ˈfæməli/",
+        "translation": {
+            "n.": "家庭；家族"
+        },
+        "example": {
+            "text": [
+                "My family consists of four people.",
+                "He is a member of a prominent family in our city."
+            ],
+            "translation": [
+                "我的家庭由四个人组成。",
+                "他是我们城市一个显赫家族的成员。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "outings",
+        "pronunciation": "/ˈaʊtɪŋz/",
+        "translation": {
+            "n.": "外出；郊游；远足"
+        },
+        "example": {
+            "text": [
+                "The company organizes weekly outings for its employees.",
+                "We had a great outing to the mountains last weekend."
+            ],
+            "translation": [
+                "公司每周为员工组织外出活动。",
+                "上周末我们去山里远足，玩得很开心。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "zoo",
+        "pronunciation": "/zuː/",
+        "translation": {
+            "n.": "动物园"
+        },
+        "example": {
+            "text": [
+                "We went to the zoo yesterday.",
+                "There are many animals in the zoo."
+            ],
+            "translation": [
+                "我们昨天去了动物园。",
+                "动物园里有很多动物。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "school",
+        "pronunciation": "/skuːl/",
+        "translation": {
+            "n.": "学校；学院；学派；团体；教育机构"
+        },
+        "example": {
+            "text": [
+                "I went to a public school.",
+                "He is studying at an art school.",
+                "The school of thought she belongs to is conservative."
+            ],
+            "translation": [
+                "我上的公立学校。",
+                "他在一所艺术学院学习。",
+                "她所属的学派是保守派。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "session",
+        "pronunciation": "/ˈseʃən/",
+        "translation": {
+            "n.": "会议，会话，一段时间"
+        },
+        "example": {
+            "text": [
+                "We had a productive session to discuss the project.",
+                "He started a new session of therapy this week."
+            ],
+            "translation": [
+                "我们开了一个有效的会议来讨论项目。",
+                "他这周开始了新一轮的治疗会话。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "researchers",
+        "pronunciation": "/rɪˈsɜːrʃəz/",
+        "translation": {
+            "n.": "研究者；研究人员"
+        },
+        "example": {
+            "text": [
+                "The researchers are working on a new drug.",
+                "These researchers have made significant contributions to the field."
+            ],
+            "translation": [
+                "研究者们正在研究一种新药。",
+                "这些研究人员对该领域做出了重大贡献。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "amount",
+        "pronunciation": "/əˈmaʊnt/",
+        "translation": {
+            "n.": "数量；总额；数额"
+        },
+        "example": {
+            "text": [
+                "The amount of water in the bottle is limited.",
+                "Please specify the amount of money you want to withdraw."
+            ],
+            "translation": [
+                "瓶中的水量是有限的。",
+                "请指定您想取出的金额。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "memories",
+        "pronunciation": "/ˈmɛm.ə.riːz/",
+        "translation": {
+            "n.": "记忆；回忆；纪念品"
+        },
+        "example": {
+            "text": [
+                "I have fond memories of my childhood.",
+                "He keeps a box of memories from his past."
+            ],
+            "translation": [
+                "我有美好的童年回忆。",
+                "他保存了一个装有过去纪念品的盒子。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "recall",
+        "pronunciation": "/rɪˈkɔːl/",
+        "translation": {
+            "v.": "回忆；召回；使想起",
+            "n.": "召回；回忆录"
+        },
+        "example": {
+            "text": [
+                "I can't recall the name of the person I met yesterday.",
+                "The company recalled all the products due to safety concerns."
+            ],
+            "translation": [
+                "我想不起昨天遇到的那个人名字了。",
+                "公司因安全问题召回所有产品。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "percent",
+        "pronunciation": "/pəˈsɛnt/",
+        "translation": {
+            "n.": "百分比",
+            "adj.": "百分比的"
+        },
+        "example": {
+            "text": [
+                "The discount is 10 percent.",
+                "The percentage of people who responded was 30 percent."
+            ],
+            "translation": [
+                "折扣是10%。",
+                "回应的人占总数的30%。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    }
+]

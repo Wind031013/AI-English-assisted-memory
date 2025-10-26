@@ -1,0 +1,136 @@
+[
+    {
+        "id": "42693f95-5e40-4ee6-9fb7-5d25410ccb70",
+        "name": "测试2",
+        "description": "描述1",
+        "word_num": 5,
+        "remember_num": 0
+    },
+    {
+        "word": "recall",
+        "pronunciation": "/rɪˈkɔːl/",
+        "translation": {
+            "v.": "回忆，回想；召回；记起",
+            "n.": "召回；回忆录"
+        },
+        "example": {
+            "text": [
+                "I recall seeing him at the party.",
+                "The company has recalled its products due to safety concerns."
+            ],
+            "translation": [
+                "我记得在聚会上见过他。",
+                "公司因安全问题召回其产品。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "events",
+        "pronunciation": "/ɪ'ventz/",
+        "translation": {
+            "n.": "事件；大事；社交活动"
+        },
+        "example": {
+            "text": [
+                "The company is hosting a series of events to promote its new product.",
+                "He is planning to attend a charity event next weekend."
+            ],
+            "translation": [
+                "公司正在举办一系列活动来推广其新产品。",
+                "他计划在下周末参加一个慈善活动。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "childhood",
+        "pronunciation": "/ˈtʃaɪldˌhʊd/",
+        "translation": {
+            "n.": "童年，儿童时期"
+        },
+        "example": {
+            "text": [
+                "My childhood memories are vivid.",
+                "Childhood is a time of wonder and discovery."
+            ],
+            "translation": [
+                "我的童年记忆很生动。",
+                "童年是一个充满奇迹和发现的时期。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "memories",
+        "pronunciation": "/ˈmem.ər.iːz/",
+        "translation": {
+            "n.": "记忆；回忆"
+        },
+        "example": {
+            "text": [
+                "I have fond memories of my childhood.",
+                "These photographs bring back memories of our trip."
+            ],
+            "translation": [
+                "我对童年有着美好的回忆。",
+                "这些照片唤起了我们旅行的回忆。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "fade",
+        "pronunciation": "/feɪd/",
+        "translation": {
+            "v.": "褪色；变淡；逐渐消失",
+            "n.": "褪色；模糊不清"
+        },
+        "example": {
+            "text": [
+                "The color of the shirt has faded over time.",
+                "The memories of the event have faded."
+            ],
+            "translation": [
+                "衬衫的颜色随着时间的流逝而褪色了。",
+                "那场活动的记忆已经模糊不清了。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    }
+]

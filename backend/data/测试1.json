@@ -1,0 +1,376 @@
+[
+    {
+        "id": "47f67c39-6d90-45ee-bab4-5332dc8be144",
+        "name": "测试1",
+        "description": "描述1",
+        "word_num": 14,
+        "remember_num": 0
+    },
+    {
+        "word": "youngsters",
+        "pronunciation": "/ˈjʌŋstərz/",
+        "translation": {
+            "n.": "年轻人"
+        },
+        "example": {
+            "text": [
+                "The youngsters are full of energy.",
+                "She is a real youngsters' hero."
+            ],
+            "translation": [
+                "这些年轻人充满了活力。",
+                "她真的是年轻人的英雄。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "laboratory",
+        "pronunciation": "/ləˈbɒrətəri/",
+        "translation": {
+            "n.": "实验室"
+        },
+        "example": {
+            "text": [
+                "The professor conducts experiments in the chemistry laboratory.",
+                "She works as a researcher in a medical laboratory."
+            ],
+            "translation": [
+                "教授在化学实验室里进行实验。",
+                "她在医学实验室里工作作为研究员。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "visited",
+        "pronunciation": "/ˈvɪzɪtɪd/",
+        "translation": {
+            "v.": "访问；参观；拜访",
+            "adj.": "参观过的；访问过的"
+        },
+        "example": {
+            "text": [
+                "I have visited many countries.",
+                "The museum has been visited by thousands of people."
+            ],
+            "translation": [
+                "我已经访问过很多国家。",
+                "博物馆已经被成千上万的人参观过。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "age",
+        "pronunciation": "/eɪdʒ/",
+        "translation": {
+            "n.": "年龄",
+            "v.": "变老"
+        },
+        "example": {
+            "text": [
+                "He is 30 years old.",
+                "The trees age gracefully."
+            ],
+            "translation": [
+                "他30岁了。",
+                "这些树优雅地老化。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "events",
+        "pronunciation": "/ɪˈventz/",
+        "translation": {
+            "n.": "事件；活动"
+        },
+        "example": {
+            "text": [
+                "The company has organized several events this year.",
+                "Can you tell me more about the events planned for next month?"
+            ],
+            "translation": [
+                "公司今年已经组织了几次活动。",
+                "你能告诉我更多关于下个月计划的活动吗？"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "past",
+        "pronunciation": "/pæst/",
+        "translation": {
+            "adj.": "过去的",
+            "n.": "过去",
+            "prep.": "经过",
+            "adv.": "经过；过去"
+        },
+        "example": {
+            "text": [
+                "The past few years have been difficult for me.",
+                "She looked back at the past and smiled.",
+                "The car drove past the park.",
+                "He said he would be back in a few minutes, but it's been past an hour."
+            ],
+            "translation": [
+                "过去的几年对我来说很艰难。",
+                "她回望过去，微笑了。",
+                "汽车经过公园。",
+                "他说他几分钟就会回来，但现在已经过去一个小时了。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "family",
+        "pronunciation": "/ˈfæmɪli/",
+        "translation": {
+            "n.": "家庭",
+            "adj.": "家庭的；家族的"
+        },
+        "example": {
+            "text": [
+                "My family is very close-knit.",
+                "She is a family friend."
+            ],
+            "translation": [
+                "我的家庭非常亲密团结。",
+                "她是我们家的朋友。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "outings",
+        "pronunciation": "/ˈaʊtɪŋz/",
+        "translation": {
+            "n.": "外出；郊游；远足"
+        },
+        "example": {
+            "text": [
+                "The company organizes regular outings for its employees.",
+                "We had a great outing to the mountains last weekend."
+            ],
+            "translation": [
+                "公司定期为员工组织外出活动。",
+                "上周末我们去山区进行了一次很棒的郊游。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "zoo",
+        "pronunciation": "/zuː/",
+        "translation": {
+            "n.": "动物园"
+        },
+        "example": {
+            "text": [
+                "My kids love visiting the zoo.",
+                "The zoo is home to a variety of animals."
+            ],
+            "translation": [
+                "我的孩子们喜欢去动物园参观。",
+                "动物园是各种动物的家。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "school",
+        "pronunciation": "/skuːl/",
+        "translation": {
+            "n.": "学校",
+            "v.": "上学"
+        },
+        "example": {
+            "text": [
+                "She goes to a famous school.",
+                "My brother is in school right now."
+            ],
+            "translation": [
+                "她上的是一所著名的学校。",
+                "我哥哥现在正在上学。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "session",
+        "pronunciation": "/ˈseʃən/",
+        "translation": {
+            "n.": "会议；会话；一段时间；学期；课程"
+        },
+        "example": {
+            "text": [
+                "We had a productive session to discuss the project.",
+                "He started a new session of therapy last week.",
+                "The session was filled with laughter and good conversation.",
+                "She completed her session at the gym and felt refreshed."
+            ],
+            "translation": [
+                "我们开了一个富有成效的会议来讨论这个项目。",
+                "他上周开始了一个新的治疗疗程。",
+                "那个会议充满了笑声和愉快的谈话。",
+                "她在健身房完成了她的训练课程，感觉神清气爽。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "researchers",
+        "pronunciation": "/riːˈsɜːtʃərz/",
+        "translation": {
+            "n.": "研究者；研究人员"
+        },
+        "example": {
+            "text": [
+                "Many researchers are working on this project.",
+                "She is a leading researcher in her field."
+            ],
+            "translation": [
+                "许多研究人员正在这个项目上工作。",
+                "她是她领域内的主要研究者。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "recall",
+        "pronunciation": "/rɪˈkɔːl/",
+        "translation": {
+            "v.": "回忆，回想；召回；收回",
+            "n.": "召回；回忆录"
+        },
+        "example": {
+            "text": [
+                "I can't recall the name of the person I met yesterday.",
+                "The company recalled the faulty products."
+            ],
+            "translation": [
+                "我想不起昨天遇见的那个人名字了。",
+                "公司召回有缺陷的产品。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    },
+    {
+        "word": "percent",
+        "pronunciation": "/pɜːrˈsɛnt/",
+        "translation": {
+            "n.": "百分比",
+            "v.": "表示为百分比"
+        },
+        "example": {
+            "text": [
+                "The percent of students who passed the exam was 90%.",
+                "He percentaged the data to show the trends."
+            ],
+            "translation": [
+                "通过考试的学生的百分比是90%。",
+                "他用百分比表示数据以展示趋势。"
+            ]
+        },
+        "memory": {
+            "remember": false,
+            "last_review": null,
+            "wrong_count": 0
+        },
+        "word_list": true,
+        "memory_list": false,
+        "final_list": false
+    }
+]
