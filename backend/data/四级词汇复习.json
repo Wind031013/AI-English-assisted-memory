@@ -1,0 +1,637 @@
+[
+  {
+    "id": "7f660bd3-a3bd-4385-96b3-fd2607dc3606",
+    "name": "四级词汇复习",
+    "description": "阅读理解1",
+    "word_num": 25,
+    "remember_num": 1
+  },
+  {
+    "pronunciation": "/ˌmænjuˈfækʧərərz/",
+    "example": {
+      "translation": [
+        "该产品的制造商位于欧洲。",
+        "几家制造商已经开始生产环保商品。"
+      ],
+      "text": [
+        "The manufacturers of the product are based in Europe.",
+        "Several manufacturers have started to produce eco-friendly goods."
+      ]
+    },
+    "translation": {
+      "n.": "制造商；厂商"
+    },
+    "word": "manufacturers",
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "collection networks",
+    "pronunciation": "/kəˈlek.ʃən ˈnɛt.wɜrkz/",
+    "translation": {
+      "n.": "收集网络"
+    },
+    "example": {
+      "text": [
+        "The company has a vast collection network that spans the globe.",
+        "The museum is known for its extensive collection networks that bring rare artifacts to the public."
+      ],
+      "translation": [
+        "这家公司有一个遍布全球的庞大收集网络。",
+        "这家博物馆因其广泛的收集网络而闻名，这些网络将罕见文物带给公众。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "recycle",
+    "pronunciation": "/riːsaɪkl/",
+    "translation": {
+      "v.": "回收利用",
+      "n.": "可回收物"
+    },
+    "example": {
+      "text": [
+        "We should recycle our paper and plastic waste.",
+        "The city has a program to collect and recycle electronic waste."
+      ],
+      "translation": [
+        "我们应该回收我们的纸和塑料垃圾。",
+        "该市有一个收集和回收电子垃圾的项目。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "products",
+    "pronunciation": "/ˈprɒdʌkts/",
+    "translation": {
+      "n.": "产品；商品"
+    },
+    "example": {
+      "text": [
+        "The company offers a wide range of products.",
+        "These are the products we sell."
+      ],
+      "translation": [
+        "这家公司提供了一系列产品。",
+        "这些是我们销售的产品。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "integrate",
+    "pronunciation": "/ˈɪntɪˌgreɪt/",
+    "translation": {
+      "v.": "整合，结合",
+      "n.": "整体，综合"
+    },
+    "example": {
+      "text": [
+        "The company is integrating its different departments to improve efficiency.",
+        "The team has a strong sense of integration."
+      ],
+      "translation": [
+        "公司正在整合其不同的部门以提高效率。",
+        "这个团队具有很强的团队凝聚力。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "pronunciation": "/ˈplæstɪks/",
+    "example": {
+      "translation": [
+        "塑料被用于许多日常用品中。",
+        "这个瓶子是由塑料制成的。"
+      ],
+      "text": [
+        "Plastics are used in many everyday items.",
+        "The bottle is made of plastic."
+      ]
+    },
+    "translation": {
+      "n.": "塑料"
+    },
+    "word": "plastics",
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "pronunciation": "/kəmˈpəʊnənt/",
+    "example": {
+      "translation": [
+        "电脑的硬件由各种组件组成。",
+        "他是团队中不可或缺的一员。"
+      ],
+      "text": [
+        "The computer's hardware is made up of various components.",
+        "He is an essential component of the team."
+      ]
+    },
+    "translation": {
+      "n.": "组件；成分；元件",
+      "adj.": "组成的；构成的"
+    },
+    "word": "component",
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "pronunciation": "/ɪˌlekˈtrɒnɪk ˈprɒdʌkts/",
+    "example": {
+      "translation": [
+        "电子产品在日常生活中的普及度越来越高。",
+        "最新的电子产品通常带有先进的功能。"
+      ],
+      "text": [
+        "Electronic products are becoming more popular in daily life.",
+        "The latest electronic products often come with advanced features."
+      ]
+    },
+    "translation": {
+      "n.": "电子产品"
+    },
+    "word": "electronic products",
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "pronunciation": "/ˈɒbstəkl/",
+    "example": {
+      "translation": [
+        "路上的障碍物造成了交通堵塞。",
+        "他们克服了障碍，继续了他们的旅程。"
+      ],
+      "text": [
+        "The obstacle in the road caused a traffic jam.",
+        "They overcame the obstacle and continued their journey."
+      ]
+    },
+    "translation": {
+      "n.": "障碍物；阻碍"
+    },
+    "word": "obstacle",
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "quality",
+    "pronunciation": "/ˈkwɒlɪti/",
+    "translation": {
+      "n.": "质量",
+      "adj.": "优质的；高级的"
+    },
+    "example": {
+      "text": [
+        "The quality of the product was excellent.",
+        "This is a quality item, not a cheap imitation."
+      ],
+      "translation": [
+        "这个产品的质量非常好。",
+        "这是一件优质商品，不是廉价的仿制品。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "strength",
+    "pronunciation": "/streŋθ/",
+    "translation": {
+      "n.": "力量；强度",
+      "v.": "增强；加强"
+    },
+    "example": {
+      "text": [
+        "The strength of the bridge was tested in the storm.",
+        "The government has strengthed its border controls."
+      ],
+      "translation": [
+        "这座桥梁在暴风雨中经受了强度测试。",
+        "政府加强了边界管控。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "pronunciation": "/flɛkˈsɪbɪlɪti/",
+    "example": {
+      "translation": [
+        "公司展示了极大的政策调整灵活性。",
+        "这位运动员在瑜伽课上展示了卓越的柔韧性。"
+      ],
+      "text": [
+        "The company showed great flexibility in adjusting its policies.",
+        "The athlete demonstrated excellent flexibility in the yoga class."
+      ]
+    },
+    "translation": {
+      "n.": "灵活性；柔韧性；适应性"
+    },
+    "word": "flexibility",
+    "memory": {
+      "remember": true,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "reprocessed",
+    "pronunciation": "/ˌriːprəʊˈsesɪd/",
+    "translation": {
+      "v.": "再处理；重新加工"
+    },
+    "example": {
+      "text": [
+        "The waste was reprocessed to reduce environmental impact.",
+        "The old data was reprocessed to include new information."
+      ],
+      "translation": [
+        "废料被重新处理以减少环境影响。",
+        "旧数据被重新处理以包含新信息。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "sandwich",
+    "pronunciation": "/ˈsændwɪtʃ/",
+    "translation": {
+      "n.": "三明治",
+      "v.": "夹着；放在...之间"
+    },
+    "example": {
+      "text": [
+        "He made a sandwich for lunch.",
+        "The two ideas sandwiched the middle ground."
+      ],
+      "translation": [
+        "他为午餐做了一份三明治。",
+        "这两个想法处于中间位置。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "outer layers",
+    "pronunciation": "/ˈaʊtər ˈleɪərz/",
+    "translation": {
+      "n.": "外层；外部层"
+    },
+    "example": {
+      "text": [
+        "The outer layers of the Earth are solid.",
+        "The outer layers of the onion are usually discarded."
+      ],
+      "translation": [
+        "地球的外层是固体的。",
+        "洋葱的外层通常会被丢弃。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "mixture",
+    "pronunciation": "/ˈmɪkstʃər/",
+    "translation": {
+      "n.": "混合物",
+      "v.": "混合"
+    },
+    "example": {
+      "text": [
+        "Air is a mixture of gases.",
+        "She mixed the two colors to create a new shade."
+      ],
+      "translation": [
+        "空气是由多种气体混合而成的。",
+        "她把两种颜色混合在一起，创造出了新的色调。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "desktop PCs",
+    "pronunciation": "/ˈdɛskˌtɑːp piːˈsiː/",
+    "translation": {
+      "n.": "台式电脑"
+    },
+    "example": {
+      "text": [
+        "He prefers a desktop PC for gaming."
+      ],
+      "translation": [
+        "他更喜欢用台式电脑来玩游戏。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "pronunciation": "/ˈkʌmpəni/",
+    "example": {
+      "translation": [
+        "他在一家大公司工作。",
+        "她陪他散步。"
+      ],
+      "text": [
+        "He works for a large company.",
+        "She companyed him on his walk."
+      ]
+    },
+    "translation": {
+      "n.": "公司",
+      "v.": "陪伴"
+    },
+    "word": "company",
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "pronunciation": "/koʊˌɑːb.əˈreɪ.ʃən/",
+    "example": {
+      "translation": [
+        "公司重视员工之间的合作。",
+        "他们正在做一个需要密切合作的项目。"
+      ],
+      "text": [
+        "The company values its employees' cooperation with each other.",
+        "They are working on a project that requires close cooperation."
+      ]
+    },
+    "translation": {
+      "n.": "合作，协作；互助"
+    },
+    "word": "cooperation",
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "plastic maker",
+    "pronunciation": "/ˈplæstɪk ˈmeɪkər/",
+    "translation": {
+      "n.": "塑料制造商"
+    },
+    "example": {
+      "text": [
+        "The plastic maker has been in business for over 50 years."
+      ],
+      "translation": [
+        "这家塑料制造商已经营业超过50年了。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "pronunciation": "/məˈkænɪkəl ˈprɒpətiːz/",
+    "example": {
+      "translation": [
+        "该材料的机械性能对于其在工程应用中的使用至关重要。",
+        "金属的机械性能通常会被测试以确保其适用于建筑。"
+      ],
+      "text": [
+        "The mechanical properties of the material are crucial for its use in engineering applications.",
+        "The mechanical properties of metals are often tested to ensure their suitability for construction."
+      ]
+    },
+    "translation": {
+      "n.": "机械性能"
+    },
+    "word": "mechanical properties",
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "recycling",
+    "pronunciation": "/ˈriːsaɪklɪŋ/",
+    "translation": {
+      "v.": "回收利用",
+      "n.": "回收利用过程；循环再利用"
+    },
+    "example": {
+      "text": [
+        "Recycling plastic bottles helps reduce pollution.",
+        "The recycling process starts with collecting the waste."
+      ],
+      "translation": [
+        "回收塑料瓶有助于减少污染。",
+        "回收利用过程从收集废物开始。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "pronunciation": "/fleɪm ˌriːtərənt/",
+    "example": {
+      "translation": [
+        "防火材料用于衣物中，以防止火势蔓延。"
+      ],
+      "text": [
+        "Flame-retardant materials are used in clothing to prevent fires from spreading."
+      ]
+    },
+    "translation": {
+      "adj.": "防火的，阻燃的"
+    },
+    "word": "flame-retardant",
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "battery cases",
+    "pronunciation": "/ˈbæt.ri ˈkeɪz.iːz/",
+    "translation": {
+      "n.": "电池盒"
+    },
+    "example": {
+      "text": [
+        "I need a new battery case for my phone.",
+        "The battery cases are made of high-quality materials."
+      ],
+      "translation": [
+        "我需要给我手机换一个新的电池盒。",
+        "这些电池盒是由高品质材料制成的。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  },
+  {
+    "word": "notebook PC",
+    "pronunciation": "/ˈnəʊtˌbuk ˈpiː siː/",
+    "translation": {
+      "n.": "笔记本电脑"
+    },
+    "example": {
+      "text": [
+        "She carries a lightweight notebook PC for work.",
+        "The latest models of notebook PCs are very powerful."
+      ],
+      "translation": [
+        "她携带了一台轻便的笔记本电脑用于工作。",
+        "最新的笔记本电脑型号非常强大。"
+      ]
+    },
+    "memory": {
+      "remember": false,
+      "last_review": null,
+      "wrong_count": 0
+    },
+    "word_list": true,
+    "memory_list": false,
+    "final_list": false
+  }
+]

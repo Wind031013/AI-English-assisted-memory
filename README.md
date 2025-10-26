@@ -1,51 +1,117 @@
-# 英语辅助记忆平台 (English Assisted Memory Platform)
+# 基于AI语境感知的重点词汇提取与个性化词库构建系统
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Vue.js-3.x-brightgreen" alt="Vue.js Version">
-  <img src="https://img.shields.io/badge/FastAPI-Python-blue" alt="FastAPI">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+  
+  [![Vue.js](https://img.shields.io/badge/Vue.js-3.x-brightgreen?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
+  [![FastAPI](https://img.shields.io/badge/FastAPI-Python-blue?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+  [![LLM](https://img.shields.io/badge/LLM-GLM-blue?style=for-the-badge)](https://glm.ziqingyang.com/)
+  
 </div>
 
 ## 项目简介
 
-英语辅助记忆平台是一个基于AI技术的英语单词学习系统，旨在通过智能化的记忆算法和交互式学习方式帮助用户高效记忆英语单词。该平台通过分析文章内容自动生成个性化单词书，并采用间隔重复记忆法帮助用户巩固记忆。
+本项目是一个智能化英语辅助记忆平台，帮助用户从真实语境中高效提取重点词汇，并通过科学的记忆算法实现长期记忆。系统支持用户上传英文文章，自动分析内容，结合学习者身份（如高中生、CET-4/6考生、考研英语等），生成个性化单词书，并提供交互式复习流程，显著提升词汇记忆效率。
 
-## 功能特点
+## ✨ 核心功能
 
 ### 📚 智能单词书生成
-- 基于用户输入的文章内容自动生成相关单词书
-- 根据学习者身份（如高中生、四级考生等）定制单词内容
-- AI驱动的单词筛选和解释
+
+**语境感知提取**：基于文章上下文，识别高频、重点及易混淆词汇  
+**身份自适应**：根据用户设定的学习目标（如"高考英语"、"雅思词汇"）动态调整词库难度与范围  
+**结构化词卡**：每词包含：
+- 英文单词 + 音标（IPA）
+- 中文释义（多义项分列）
+- 一个或多个补充例句（增强理解）
+
+---
+
+<div align="center">
+  <img src="./img/example.png" alt="提取单词例图" width="45%">
+  <img src="./img/back.png" alt="提取单词例图" width="45%">
+  <p>最终生成的单词书包含单词、音标、翻译、单词每个含义的例句以及其翻译等信息</p>
+</div>
 
 ### 🎯 科学记忆方法
-- 采用间隔重复记忆算法优化学习过程
-- 三阶段记忆模式：新词学习 → 复习巩固 → 最终掌握
-- 实时学习进度跟踪
+
+采用三阶段渐进式记忆法，模拟人类记忆曲线：
+
+<div align="center">
+  <img src="./img/word.png" alt="4选1例图" width="30%">
+  <img src="./img/memory.png" alt="看句回忆例图" width="30%">
+  <img src="./img/final.png" alt="最终掌握例图" width="30%">
+  
+  | 阶段 | 方法 | 目标 |
+  |------|------|------|
+  | 识别阶段 | 4选1 | 初步认知单词含义 |
+  | 回忆阶段 | 看句想词 | 强化记忆连接 |
+  | 掌握阶段 | 主动输出 | 确认完全掌握 |
+</div>
 
 ### 🖥️ 交互式学习体验
-- 翻转卡片式单词学习界面
-- 多选题测试单词掌握情况
-- 直观的学习进度可视化
+
+- **翻转卡片设计**：点击卡片查看释义，模拟实体闪卡体验
+- **多题型测试**：支持选择题、填空等多种练习形式
+- **流畅动效**：基于 Vue 3 的响应式交互，学习过程更沉浸
 
 ### 📊 学习数据管理
-- 单词记忆状态跟踪
-- 学习进度统计
+
 - 支持多本单词书管理
+- 实时学习进度追踪
+- 个人记忆状态记录
 
-## 技术架构
+## 🛠 技术架构
 
-### 前端技术栈
-- **Vue 3** + **Composition API** - 现代化前端框架
-- **Element Plus** - UI组件库
-- **Vue Router** - 页面路由管理
+### 前端（Frontend）
 
-### 后端技术栈
-- **FastAPI** - 高性能Python Web框架
-- **JSON文件存储** - 轻量级数据存储方案
-- **CORS支持** - 跨域资源共享
+| 技术 | 用途 | 特点 |
+|------|------|------|
+| **Vue 3** | 主框架 | Composition API, 响应式系统 |
+| **Element Plus** | UI组件库 | 丰富的现代化组件 |
+| **Vue Router** | 路由管理 | 单页应用导航 |
+
+### 后端（Backend）
+
+| 技术 | 用途 | 特点 |
+|------|------|------|
+| **FastAPI** | Web框架 | 高性能异步支持，自动生成API文档 |
+| **JSON文件** | 数据存储 | 轻量、易部署，支持后续扩展为数据库 |
 
 ### AI集成
-- **GLM-4-Flash** 大语言模型 - 单词解释和文章分析
-- 智能词汇提取算法
 
-## 系统架构图
+**GLM-4-Flash** 大语言模型（智谱AI）
+- 文章语义分析
+- 词汇重要性评分
+- 释义生成
+- 例句构造
+
+## 🏗 系统架构图
+
+<div align="center">
+  <img src="./img/system_flowchart.png" alt="系统架构图" width="100%">
+</div>
+
+## 🚀 快速开始
+
+### 环境要求
+
+- Node.js >= 16.0
+- Python >= 3.8
+- npm 或 yarn
+
+### 安装步骤
+
+1. 克隆项目代码：
+```bash
+git clone https://github.com/your-username/english-assisted-memory.git
+```
+2. 进入前端目录并启动web：
+```bash
+cd english-assisted-memory/web
+npm run dev
+```
+3. 进入后端目录并启动服务：
+```bash
+cd ../backend
+python main.py
+```
