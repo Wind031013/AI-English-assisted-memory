@@ -133,17 +133,3 @@ class VocabularyGenerator:
         self.save_vocabulary(self.building_vocabulary(name, system_prompt[1], words, description, word_num), file_name)
         print("词汇表创建完成")
         return word_num
-        
-        
-if __name__ == "__main__":
-    api_key="2bdaa31b12a949ed8ff51cb875146002.4mqQT6TIDgVAnd1Y"
-    model = "GLM-4-Flash"
-    essay = """
-Most adults find it hard to recall events from their first few years of life and now scientists have found exactly when these childhood memories fade.
-A new study has found that most three-year-olds can recall a lot of what happened to them over a year earlier, and these memories persist while they are five and six, but by the time they are over seven, these memories decline rapidly.
-Most children by the age of eight or nine can only recall 35% of their experiences from under the age of three, according to the new findings.
-The scientists behind the research say this is because at around this age the way we form memories begins to change. They say that before the age of seven children do not have a sense of time and place in their memories. In older children, however, the early events they can recall tend to be more adult-like in the way they are formed. Children also have a far faster rate of forgetting than adults. The findings also help to explain why children can often have clear memories of events but then forget them just a couple of years later.
-The youngsters first visited the laboratory at the age of three and discussed six unique events from their past, such as family outings, trips to the zoo, and the first day of school. The children then returned for a second session between the ages of five and nine to discuss the same events. The researchers found that between the ages of five and seven, the amount of memories the children could recall remained between 63 -72 percent. However, the amount of information eight-to nine-year-old children could recall dropped to 35 and 36 percent.
-"""
-    generator = VocabularyGenerator(api_key, model)
-    generator.create_vocabulary_from_essay("essay.txt", "高中生", essay)
